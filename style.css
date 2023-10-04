@@ -54,7 +54,6 @@ body {
     color: var(--cinza-secundario);
 }
 
-
 .container__titulo {
     font-size: 28px;
     font-weight: 700;
@@ -86,6 +85,17 @@ body {
 
 .descricao__texto {
     color: var(--cinza-secundario);
+}    margin: 0 10em;
+}
+
+.descricao__titulo {
+    font-weight: 700;
+    font-size: 48px;
+…    margin-top: 1em;
+}
+
+.container__descricao {
+    padding: 2em;
 }
 
 .secundario__botao {
@@ -116,6 +126,17 @@ body {
 .lista__item {
     font-size: 32px;
     color: var(--branco-principal);
+}    margin: 0 10em;
+}
+
+.descricao__titulo {
+    font-weight: 700;
+    font-size: 48px;
+…    margin-top: 1em;
+}
+
+.container__descricao {
+    padding: 2em;
 }
 
 .rodape {
